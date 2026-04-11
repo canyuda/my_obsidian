@@ -1,0 +1,5 @@
+[2026-04-11T15:24:12+08:00] Bash: {"command":"ls -la /Users/yiqi/ob/cyd/ | head -20","description":"List files in current directory"}
+[2026-04-11T15:24:18+08:00] Bash: {"command":"which gh && gh auth status 2>&1","description":"Check gh CLI availability and auth status"}
+[2026-04-11T15:24:56+08:00] Bash: {"command":"git init","description":"Initialize git repository"}
+[2026-04-11T15:25:20+08:00] Bash: {"command":"cat > .gitignore << 'EOF'\n.DS_Store\nEOF","description":"Create .gitignore to exclude .DS_Store"}
+[2026-04-11T15:25:31+08:00] Bash: {"command":"gh repo create my_obsidian --private --source=. --remote=origin --description \"My Obsidian Vault\" 2>&1","description":"Create private GitHub repo named my_obsidian"}
