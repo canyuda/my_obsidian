@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自己写的skill备份/列表.md",
+                "file": "Prompt工程/Java后端面试指导.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "列表"
+              "title": "Java后端面试指导"
             }
           }
         ]
@@ -184,8 +184,23 @@
   },
   "active": "46c2e3ead5bf7ca2",
   "lastOpenFiles": [
-    "自己写的skill备份/plantuml-generator/SKILL.md",
+    "Prompt工程/吃什么.md",
+    "Prompt工程/Java后端面试指导.md",
+    "CLAUDE文件模板/Java后端/CLAUDE.md",
+    "Prompt工程",
     "自己写的skill备份/列表.md",
+    "CLAUDE文件模板/Java后端/rules/testing-rules.md",
+    "CLAUDE文件模板/Java后端/rules/mq-rules.md",
+    "CLAUDE文件模板/Java后端/rules/job-rules.md",
+    "CLAUDE文件模板/Java后端/rules/git-rules.md",
+    "CLAUDE文件模板/Java后端/rules/database-rules.md",
+    "CLAUDE文件模板/Java后端/rules/coding-rules.md",
+    "CLAUDE文件模板/Java后端/rules/cache-rules.md",
+    "CLAUDE文件模板/Java后端/rules/api-rules.md",
+    "CLAUDE文件模板/Java后端/rules",
+    "CLAUDE文件模板/Java后端",
+    "CLAUDE文件模板",
+    "自己写的skill备份/plantuml-generator/SKILL.md",
     "plantuml-generator.md",
     "kimi/AGENTS.md",
     "自己写的skill备份/plantuml-generator/references/templates.md",
@@ -206,12 +221,6 @@
     "极客时间/AgentSkill重构传统SOP(差)/课件Agent Skill 重构传统SOP.pdf",
     "欢迎.md",
     "子代理.md",
-    "极客时间/Claude Code 工程化实战/4.Skills.md",
-    "极客时间/Claude Code 工程化实战/3.子代理.md",
-    "极客时间/Claude Code 工程化实战/5.Hooks.md",
-    "极客时间/Claude Code 工程化实战/2.基础篇.md",
-    "极客时间/AgentSkill重构传统SOP(差)/图片",
-    "极客时间/AgentSkill重构传统SOP(差)",
     "极客时间/Claude Code 工程化实战/图片/Pasted image 20260410195629.png",
     "极客时间/Claude Code 工程化实战/图片/Pasted image 20260410130442.png",
     "极客时间/Claude Code 工程化实战/图片/Pasted image 20260410131218.png",
@@ -221,8 +230,6 @@
     "极客时间/Claude Code 工程化实战/图片/Pasted image 20260410105537.png",
     "极客时间/Claude Code 工程化实战/图片/Pasted image 20260410125800.png",
     "极客时间/Claude Code 工程化实战/图片/Pasted image 20260410102345.png",
-    "极客时间/Claude Code 工程化实战/图片/Pasted image 20260410093934.png",
-    "Claude Code Agent备份",
-    "极客时间/Claude Code 工程化实战/图片"
+    "极客时间/Claude Code 工程化实战/图片/Pasted image 20260410093934.png"
   ]
 }
