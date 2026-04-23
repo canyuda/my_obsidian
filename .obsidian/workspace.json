@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE文件模板/通用的规范/后端.md",
+                "file": "Claude Code Agent备份/Java后端项目协作指南.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "后端"
+              "title": "Java后端项目协作指南"
             }
           }
         ]
@@ -184,6 +184,9 @@
   },
   "active": "3e98f0a0f78737a0",
   "lastOpenFiles": [
+    "Claude Code Agent备份/docs/Git与版本控制规范.md",
+    "Claude Code Agent备份/docs/架构与代码规范.md",
+    "Claude Code Agent备份/docs/技术栈与环境.md",
     "CLAUDE文件模板/通用的规范/后端.md",
     "CLAUDE文件模板/Java后端/rules/api-rules.md",
     "Prompt工程/Java后端面试指导.md",
@@ -209,9 +212,6 @@
     "自己写的skill备份/plantuml-generator/references",
     "自己写的skill备份/plantuml-generator",
     "自己写的skill备份",
-    "Claude Code Agent备份/docs/Git与版本控制规范.md",
-    "Claude Code Agent备份/docs/架构与代码规范.md",
-    "Claude Code Agent备份/docs/技术栈与环境.md",
     "Claude Code Agent备份/Java后端项目协作指南.md",
     "Claude Code Agent备份/docs",
     "极客时间/Claude Code 工程化实战/1.概述.md",
